@@ -1,0 +1,2 @@
+Time complexity- Number of nodes in recursion tree.
+Space complexity- Height of recursion tree.
